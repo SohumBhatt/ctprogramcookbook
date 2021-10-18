@@ -1,0 +1,15 @@
+{
+  "description": {
+    "names": {
+      "nl": "Lengte van een string Introductie",
+      "en": "length of string intro"
+    }
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "JdGsAIt_bYCi_XwWBt9qmpM_Ihs-8v37KdM2BXcvgNKTVDfFf75bSHDF9dyCT97D",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

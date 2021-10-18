@@ -1,0 +1,2 @@
+Hoera! Dit was de laatste oefening in Dodona! Je hebt nu enkele basisfuncties onder de knie in het programmeren. Proficiat! 
+Wij zijn erg benieuwd wat jij als kersverse programmeur van het leerpad vond! Heb je een paar bedenkingen? Ga terug naar i-Learn en laat het ons weten! 
