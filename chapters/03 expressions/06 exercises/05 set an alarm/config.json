@@ -5,9 +5,11 @@
       "en": "Set an alarm"
     }
   },
-  "labels": [],
+  "labels": [
+
+  ],
   "internals": {
-    "token": "AwkaIg353BVqY_HrHmfFV_U5Fj2BIS-j_MV4gvShK9ijTp8f_U7Zs3W6Xk7TY7TY",
+    "token": "7s3cbkYkyzbtFNiAPes-8vwxei2Dxftg_uJpczvafwSqWiXpxcPv5H_8mIEV4zBu",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

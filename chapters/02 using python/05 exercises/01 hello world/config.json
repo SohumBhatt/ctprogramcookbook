@@ -5,9 +5,11 @@
       "en": "Hello, world!"
     }
   },
-  "labels": [],
+  "labels": [
+
+  ],
   "internals": {
-    "token": "ASYAwMCF9utrN-_h93JPET8Pxs73xHr3iXdiBqR6zFBu5_gmj9RIBvFsX_GEkcqw",
+    "token": "IjEsCp-DKzAdCiFmhccV56Szggd-5x8WkBZVBZ2J_rzZ6YpQ7P2gkE9mmgKcF2qK",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
