@@ -3,7 +3,7 @@ Daarna kan je met de codes oefenen.
 
 Aan de hand van deze eerste oefening leer je Dodona beter kennen. Je kan kiezen of je onderstaand filmpje bekijkt, of eerder de uitleg leest. 
 
-[![introductie filmpje]({image-url})]({video-url} "Introductie Filmpje")
+[![introductie filmpje](media/image16.png)](https://youtu.be/tKvZciBGin4)
 
 Uitleg: 
 
