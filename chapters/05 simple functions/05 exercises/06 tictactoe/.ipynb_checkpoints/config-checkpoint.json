@@ -1,0 +1,18 @@
+{
+  "description": {
+    "names": {
+      "nl": "Tictactoe",
+      "en": "Tictactoe"
+    }
+  },
+  "evaluation": {
+    "handler": "python"  
+  }, 
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "P5fZD2ZFQ3PC7nXnAXwzp46RmZqt5D5VV9wquPQBZDgsvfBAF_fzZTjGHWsYa7HR",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

@@ -1,0 +1,10 @@
+win
+win
+tie
+------------------------------------------------------------
+tab name: WinOrLose
+python input without prompt: true
+block count: multi
+input block size: ends with
+output block size: 1
+comparison: exact match
