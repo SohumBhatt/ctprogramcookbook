@@ -1,0 +1,15 @@
+{
+  "description": {
+    "names": {
+      "nl": "Hello, world!",
+      "en": "Hello, world! CT"
+    }
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "IjEsCp-DKzAdCiFmhccV56Szggd-5x8WkBZVBZ2J_rzZ6YpQ7P2gkE9mmgKcF2qK",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
