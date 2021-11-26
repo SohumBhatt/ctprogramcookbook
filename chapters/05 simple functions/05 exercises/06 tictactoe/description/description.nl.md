@@ -1,3 +1,9 @@
+Eerst moet je een korte quiz doen.
+
+## [KLIK HIER VOOR DE QUIZ](https://kuleuven.eu.qualtrics.com/jfe/form/SV_5Abf7rpsf8azkz4)
+
+
+
 Tic-tac-toe (ook wel boter-kaas-en-eieren genoemd) is een oud, maar heel populair spelletje dat bekend is over de 
 hele wereld! Spelers krijgen een leeg tabelletje te zien. Om de beurt mogen ze een X of een O invullen. 
 Om te winnen moet een speler 3 X'en of O's op rij hebben.
