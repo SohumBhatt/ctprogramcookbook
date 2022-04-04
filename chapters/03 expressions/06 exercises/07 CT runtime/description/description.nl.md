@@ -1,0 +1,1 @@
+Nu krijgt Thomas een nieuwe opdracht. Hij moet op zoek naar de fout om die vervolgens op te lossen en 2 correcte codes te bekomen. Kan jij mee speuren naar de fout? Je hoeft hiervoor niets uit te rekenen. 

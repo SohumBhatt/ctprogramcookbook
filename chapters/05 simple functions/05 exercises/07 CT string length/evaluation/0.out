@@ -1,0 +1,10 @@
+43
+------------------------------------------------------------
+tab name: Length
+python input without prompt: true
+block count: one
+comparison: exact match
+<LANGUAGE code="nl">
+    <fixed from="Length" to="Lengte" detect="false" />
+</LANGUAGE>
+

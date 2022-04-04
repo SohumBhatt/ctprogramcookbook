@@ -1,7 +1,7 @@
 {
   "description": {
     "names": {
-      "nl": "Hoe bekom je een oplossing na het programmeren?",
+      "nl": "De functie Print",
       "en": "CT Expressions"
     }
   },
@@ -9,7 +9,7 @@
 
   ],
   "internals": {
-    "token": "b9-nkBx_JUSbm3AcuV_VVfMJGkxAZv2GvGTJVntZXJqY_pCfhEAcAxQZ9H7GmPqU",
+    "token": "Cv3C24wGIK7ARJxpcAS7rsUyyiNVb9afq8rf6NyByAKix7Srvh6qKW7stic5SKqC",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

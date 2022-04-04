@@ -1,0 +1,15 @@
+{
+  "description": {
+    "names": {
+      "nl": "Fouten in de variabelen opsporen",
+      "en": "errors with variables"
+    }
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "FkVZKwGFR8jdIJ4BHxFj5V-cC-XcPGVxr65ZkQ5tHx3b7m2PT_S_E9M7IqGNrHib",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

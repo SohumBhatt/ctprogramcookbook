@@ -1,5 +1,5 @@
-Wat je vaak zal tegenkomen tijdens het programmeren zijn errors, ofwel foutjes in jouw geprogrammeerde code. Het is steeds een uitdaging om de foutjes op te sporen en aan te passen. In deze oefening krijg je opnieuw 3 voorgeprogrammeerde codes. Deze bevatten echter alle drie een foutje waardoor je een error krijgt wanneer ze gedraaid worden. Kan jij de fouten ontdekken en oplossen? 
+Wat je vaak zal tegenkomen tijdens het programmeren zijn errors, ofwel foutjes in jouw geprogrammeerde code.
 
-Maak de oefening via volgende pagina.
+Veel bedrijven zijn op zoek naar programmeurs om die foutjes op te sporen en op te lossen. Maar… het is niet altijd simpel om die foutjes op te sporen en aan te passen. Soms moet je echt heel lang zoeken! 
 
-Veel succes!
+In deze oefening kruip je in de huid van een echte programmeur en ga je op zoek naar de fout. 

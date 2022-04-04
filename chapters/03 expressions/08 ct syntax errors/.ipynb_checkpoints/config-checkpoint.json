@@ -1,15 +1,15 @@
 {
   "description": {
     "names": {
-      "nl": "Hoe bekom je een oplossing na het programmeren?",
-      "en": "CT Expressions"
+      "nl": "Fouten opsporen en aanpassen",
+      "en": "Syntax errors intro"
     }
   },
   "labels": [
 
   ],
   "internals": {
-    "token": "b9-nkBx_JUSbm3AcuV_VVfMJGkxAZv2GvGTJVntZXJqY_pCfhEAcAxQZ9H7GmPqU",
+    "token": "mxER4A5785f24KAShDsYYCAm8yhP-VnqEuittagdJNQs_bj7d-GvjIGUeARCE6Ny",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

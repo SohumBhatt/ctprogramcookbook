@@ -1,0 +1,10 @@
+A message.
+A message
+A messagef"
+----------------------------------------
+tab name: feedback
+python input without prompt: true
+block count: one
+<LANGUAGE code="nl">
+    <fixed from="A message" to="Een boodschap" />
+</LANGUAGE>
